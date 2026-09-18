@@ -1,0 +1,14 @@
+# Temporary previews, one-off scripts, and local migration records
+/tmp/
+.playwright-output/
+
+# Incomplete downloads
+*.crdownload
+*.part
+
+# Operating system and Python caches
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
