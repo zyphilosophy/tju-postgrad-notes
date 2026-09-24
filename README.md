@@ -1,6 +1,6 @@
 # 天津大学智能医学工程备考
 
-用于管理天津大学智能医学工程非全日制备考计划、四科资料、学习笔记和错题。当前按 2027 年入学安排，2026 年 10 月 5 日开始学习。GitHub 仓库：[zyphilosophy/tju-postgrad-notes](https://github.com/zyphilosophy/tju-postgrad-notes)。
+用于管理天津大学智能医学工程非全日制备考计划、四科资料、学习笔记和错题。当前按 2027 年入学安排，2026 年 10 月 5 日开始学习。初试已定于 **2026 年 12 月 19—20 日**，日期依据见[教育部正式通知](https://www.moe.gov.cn/srcsite/A15/moe_778/s3261/202609/t20260923_1451734.html)。GitHub 仓库：[zyphilosophy/tju-postgrad-notes](https://github.com/zyphilosophy/tju-postgrad-notes)。
 
 ## 常用入口
 
