@@ -12,3 +12,6 @@ Thumbs.db
 desktop.ini
 __pycache__/
 *.pyc
+
+# WorkBuddy internal working data (not part of the notes content)
+.workbuddy/
