@@ -1,0 +1,157 @@
+{
+  "verified_date": "2026-10-09",
+  "admission_year": 2027,
+  "scope": "天津大学255医学院0831Z2智能医学工程，00单考不区分研究方向，非全日制",
+  "publication_dates": {
+    "admissions": "2026-10-07",
+    "catalogue_and_outlines": "2026-10-08",
+    "subject_change": "2026-07-14"
+  },
+  "files": [
+    {
+      "local_path": "2027_招生资料/天津大学2027年硕士学位研究生招生简章.pdf",
+      "kind": "官方文件原样下载",
+      "source_url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202610/P020261009578103346510.pdf",
+      "retrieved_date": "2026-10-09",
+      "bytes": 10696778,
+      "sha256": "90d390ede1f7254443ff2da9832c37b5622fd443562491de947c189c5e78876a"
+    },
+    {
+      "local_path": "2027_招生资料/天津大学2027年硕士学位研究生招生专业目录.pdf",
+      "kind": "官方文件原样下载",
+      "source_url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202610/P020261008544956535039.pdf",
+      "retrieved_date": "2026-10-09",
+      "bytes": 1052737,
+      "sha256": "3462168103667bef4b0403eafdf8383fc1747efde65431671b9c39d8d2953651"
+    },
+    {
+      "local_path": "2027_招生资料/2027单独考试初试科目调整通知_官网原始网页.html",
+      "kind": "官方文件原样下载",
+      "source_url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202607/t20260714_324677.htm",
+      "retrieved_date": "2026-10-09",
+      "bytes": 30105,
+      "sha256": "2ce0b8903cca1d2c96c6208184c45a9c7a2db8cf06c7e95fa582ad794efbe12a"
+    },
+    {
+      "local_path": "2027_招生资料/2027天津大学报考点1232报名公告_官网原始网页.html",
+      "kind": "官方文件原样下载",
+      "source_url": "https://yzb.tju.edu.cn/xwzx/tkss_xw/202610/t20261008_324745.htm",
+      "retrieved_date": "2026-10-09",
+      "bytes": 84488,
+      "sha256": "5e035f7ffc494b8548098afb5d564eccef70cfd381b6502b863a5de805caa48d"
+    },
+    {
+      "local_path": "考试大纲/2027/891_生物医学工程基础_2027大纲_官方页面摘录.pdf",
+      "kind": "官方页面原图合成的离线摘录，非学校提供的原始PDF",
+      "source_url": "https://book.yunzhan365.com/vrxif/flfk/mobile/index.html",
+      "retrieved_date": "2026-10-09",
+      "bytes": 8245788,
+      "sha256": "78f0d46de24dddaf6f4a71d97f23decedbe9ccd9d00e9768578c1cd3376ef3c6",
+      "viewer_pages": [
+        1,
+        2,
+        3,
+        4,
+        203,
+        204,
+        205
+      ],
+      "printed_syllabus_pages": [
+        199,
+        200,
+        201
+      ],
+      "source_pages": [
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/5a8114cbb8094dfd38ac9b3256e0d332.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 401490,
+          "sha256": "4e87889e97cd7b9cefa4ea9d55d3bf3f435d1941fbdee788788b2ecd56ed99ad",
+          "viewer_page": 1,
+          "printed_page": null
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/5c2deb66a119aac020cc1f27ea4a82b1.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 110830,
+          "sha256": "ab567c1cdefb6603816a9380a1beb370c71325969c12ce86403a1c4fa869706f",
+          "viewer_page": 2,
+          "printed_page": null
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/6748ca515a3964202f62abd161f91194.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 82486,
+          "sha256": "059a8b013b85dff3eb90eb7c5db9bcd7a56dd318e0be1bc3e83c311f6a480e36",
+          "viewer_page": 3,
+          "printed_page": null
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/7e1b1905eb54c879b939aa6d61debad4.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 88326,
+          "sha256": "690342e08ba7a207b45fe878e82af55d26ace9ac05879a0c63d1f681893f5f66",
+          "viewer_page": 4,
+          "printed_page": null
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/1b41687969a1d2a962b2bb46dda01e7e.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 284598,
+          "sha256": "ad39b19d4ce79a77ba682af04cb8cf7cae0c64abc0253a16283c54aa81c62ff2",
+          "viewer_page": 203,
+          "printed_page": 199
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/1bfdb7a38f486c5c3123f49a0d7c3bce.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 284706,
+          "sha256": "e87079ac81db99e4293fdc4429722380853611acfaa4fbcab9eb18014625e5df",
+          "viewer_page": 204,
+          "printed_page": 200
+        },
+        {
+          "kind": "学校指定在线书公开页面原图",
+          "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/large/deeb7fd7c77d31d7a814b63bd52983fb.webp",
+          "retrieved_date": "2026-10-09",
+          "bytes": 248752,
+          "sha256": "5b2978e2b7fbadc09b2d775398ca0f3c90777a22705601cc130d14f0835642cb",
+          "viewer_page": 205,
+          "printed_page": 201
+        }
+      ]
+    },
+    {
+      "local_path": "考试大纲/2027/891_生物医学工程基础_2027大纲_文本提取.txt",
+      "kind": "官方在线书文本层提取",
+      "source_url": "https://book.yunzhan365.com/vrxif/flfk/files/search/search_config.js?1791473120",
+      "retrieved_date": "2026-10-09",
+      "bytes": 4899,
+      "sha256": "5d5453213dd9facb29ea35481c35e6fdd6bf334b1d56e52c1391cefe3a149d73",
+      "viewer_pages": [
+        203,
+        204,
+        205
+      ],
+      "line_endings": "LF"
+    }
+  ],
+  "limitations": [
+    "111、241未列入本次学校公开大纲合集，未取得可核验的2027官方单科大纲。",
+    "301使用全国统考数学一大纲，本次只核验出版社书目，未下载大纲全文。",
+    "招生计划15人为目录中的医学院非全日制拟招人数；专业对应关系见汇总说明。"
+  ],
+  "cleanup_date": "2026-10-10",
+  "syllabus_comparison": {
+    "compared_date": "2026-10-10",
+    "old_git_path": "00_招生与考试/考试大纲/891.pdf",
+    "old_sha256": "0f88b6a87389113af033b7a25f59589af41760f185b9f9c17242537b4abb3769",
+    "result": "七模块、28个编号条目及考试总体要求一致，未发现实质考点增删；仅模块编号、页码、排版变化。旧版已从工作目录清理，可从Git历史恢复。"
+  }
+}

@@ -1,1 +1,6 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
+
+# Preserve official HTML byte-for-byte, including its original whitespace.
+00_招生与考试/2027_招生资料/*_官网原始网页.html -text -whitespace
+# Keep extracted-text hashes stable across Windows and other platforms.
+00_招生与考试/考试大纲/2027/*_文本提取.txt text eol=lf
