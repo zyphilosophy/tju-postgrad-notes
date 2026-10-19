@@ -1,0 +1,770 @@
+词库整理与校对记录
+整理日期：2026-10-18
+
+已修正或规范的条目
+词汇表：appliant → applicant（申请者）
+词汇表：contradictiction → contradiction（矛盾，名词）
+词汇表：detai → detail（细节）
+词汇表：jewllery → jewellery（珠宝，英式拼写）
+词汇表：milimetre → millimetre（毫米）
+词组表：Break throught → break through
+词组表：come aross → come across
+词组表：At cost of → at the cost of
+词组表：once after another → one after another（原释义为“一个接一个”）
+词组表：can not help → cannot help（统一常用写法）
+词组表：Whether or → whether ... or ...（恢复结构中的占位符）
+
+处理规则
+保留原表首次出现顺序；删除页码、字母章节标题、中文释义和词性标记后生成单词导入文件。
+斜杠或等号连接的完整词形分别保留；英美拼写、明示复数和括号中的可选词形分别展开。
+例如 among(st) → among / amongst；foot([pl.]feet) → foot / feet；database/-bank → database / databank。
+同一拼写去重。保留 china 与 China 等大小写具有意义区别的条目。
+A,an 中的冠词 A 规范为 a；Actually、Cab、Click、Job 等普通词的任意首字母大写已规范为小写。
+单词表主条目 percent/per cent 中 percent 进入单词导入文件；per cent 为多词表达，原文备查文件中另有收录。
+词组中的 (to)、(from) 等展开为包含和不包含可选部分的形式；one’s 统一为 one's；占位省略号统一为 ...。
+拆词版从完整词组中取出组成单词并去重；不把 sb.、sth.、one's 等语法占位符当作单词；保留原词形，不擅自还原词根。
+本次校对重点是提取和英文拼写，不代表原文中文释义、所有搭配的语义均已核验。
+
+数量
+词汇表原始主条目记录：4006
+词汇表展开并去重后的单词：4101
+词组表原始英文记录：577
+词组展开后的完整表达：621
+词组拆分并去重后的单词：349
+词汇表附带表达原文记录：733
+
+单词重复项（出现次数）
+advertisement：2
+airplane：2
+anybody：2
+anyhow：2
+catch：2
+centimetre：2
+check：3
+cheque：2
+code：2
+deal：2
+gaol：2
+millimetre：2
+penalty：2
+practice：2
+tire：2
+
+词组重复项（展开后出现次数）
+
+词汇表展开或规范的记录（原文文本行号）
+3：A,an → a / an
+107：Actually → actually
+109：ad=advertisement → ad / advertisement
+164：aeroplane/airplane → aeroplane / airplane
+280：aluminum/aluminium → aluminum / aluminium
+300：among(st) → among / amongst
+309：analyze/analyse → analyze / analyse
+366：anyone=anybody → anyone / anybody
+371：anyway=anyhow → anyway / anyhow
+397：appliant → applicant
+561：attitude  (区别altitude) → attitude
+630：ax/axe → ax / axe
+649：bacterium([pl.]bacteria) → bacterium / bacteria
+704：Basically → basically
+730：bean  （jeans牛仔裤） → bean
+776：behavior/behaviour → behavior / behaviour
+1058：bubble    (Bible《圣经》) → bubble
+1128：Cab → cab
+1255：catalog/catalogue → catalog / catalogue
+1285：center/centre → center / centre
+1290：centimetre/centimetre → centimetre / centimetre
+1331：characterize/characterise → characterize / characterise
+1352：check/cheque → check / cheque
+1370：cheque/check → cheque / check
+1383：child([pl.]children) → child / children
+1422：cigarette/cigaret → cigarette / cigaret
+1444：civilization/civilisation → civilization / civilisation
+1446：civilize/civilise → civilize / civilise
+1489：Click → click
+1581：color/colour → color / colour
+1762：connection/connexion → connection / connexion
+1822：contradictiction → contradiction
+1849：conversation (conservation保持,守恒) → conversation
+1987：crisis([pl.]crises) → crisis / crises
+1995：criticize/criticise → criticize / criticise
+2106：database/-bank → database / databank
+2179：defense/defence → defense / defence
+2279：detai → detail
+2310：dialog/dialogue → dialog / dialogue
+2379：disc(also disk) → disc / disk
+2466：dormitory/dorm → dormitory / dorm
+2575：dynamic(al) → dynamic / dynamical
+2599：earthquake/quake → earthquake / quake
+2725：emphasize/emphasise → emphasize / emphasise
+2788：enroll/enrol → enroll / enrol
+2901：exam/examination → exam / examination
+3101：fantastic(al) → fantastic / fantastical
+3148：favor/favour → favor / favour
+3152：favorable/favourable → favorable / favourable
+3154：favorite/favourite → favorite / favourite
+3198：fertilizer/fertiliser → fertilizer / fertiliser
+3210：fiber/fibre → fiber / fibre
+3299：flavor/flavour → flavor / flavour
+3368：foot([pl.]feet) → foot / feet
+3411：formula([pl.]formulae) → formula / formulae
+3507：fulfill/fulfil → fulfill / fulfil
+3573：gasoline/gasolene → gasoline / gasolene
+3724：goodby(e) → goodby / goodbye
+3731：goose([pl.]geese) → goose / geese
+3752：gram/gramme → gram / gramme
+3781：gray/grey → gray / grey
+3852：gymnasium/gym → gymnasium / gym
+3913：harbor/harbour → harbor / harbour
+4060：hi/hey → hi / hey
+4133：honor/honour → honor / honour
+4138：honorable/honourable → honorable / honourable
+4203：humor/humour → humor / humour
+4339：index([pl.]indexes,indices) → index / indexes / indices
+4425：install/instal → install / instal
+4560：jail/gaol → jail / gaol
+4586：jewelry/jewllery → jewelry / jewellery
+4588：Job → job
+4590：Join → join
+4592：Joint → joint
+4610：judgment/judgement → judgment / judgement
+4661：kilo/kilogram/kilogramme → kilo / kilogram / kilogramme
+4663：kilometer/kilometre → kilometer / kilometre
+4705：lab/laboratory → lab / laboratory
+4710：labor/labour → labor / labour
+4717：Ladies (also ladies’room)[用作单]公共女厕所,女盥洗室 → ladies
+4882：license/licence → license / licence
+5084：madam/madame → madam / madame
+5123：make-up/makeup → make-up / makeup
+5180：marvelous/marvellous → marvelous / marvellous
+5202：mathematics/math/maths → mathematics / math / maths
+5260：medium([pl.]media) → medium / media
+5311：meter/metre → meter / metre
+5337：milimetre/millimetre → millimetre / millimetre
+5418：modernization/modernisation → modernization / modernisation
+5507：mouse([pl.]mice) → mouse / mice
+5629：neighbor/neighbour → neighbor / neighbour
+5631：neighborhood/neighbourhood → neighborhood / neighbourhood
+5657：nevertheless/nonetheless → nevertheless / nonetheless
+5836：offense/offence → offense / offence
+5855：okay/O.K./OK → okay / OK
+5957：organization/organisation → organization / organisation
+5959：organize/organise → organize / organise
+6259：percent/per cent → percent / per cent
+6318：photo/photograph → photo / photograph
+6444：plow/plough → plow / plough
+6580：practice/practise → practice / practise
+6714：program/programme → program / programme
+6922：railroad/railway → railroad / railway
+6984：realization/realisation → realization / realisation
+6986：realise/realize → realise / realize
+7025：recognize/recognise → recognize / recognise
+7057：reflection/reflexion → reflection / reflexion
+7063：refrigerator/fridge → refrigerator / fridge
+7434：rumor/rumour → rumor / rumour
+7951：skillful/skilful → skillful / skilful
+8159：specialize/specialise → specialize / specialise
+8161：specialty/speciality → specialty / speciality
+8292：static(al) → static / statical
+8510：summarize/summarise → summarize / summarise
+8626：sympathize/sympathise → sympathize / sympathise
+8736：television/TV → television / TV
+8804：theater/theatre → theater / theatre
+9015：tooth([pl.]teeth) → tooth / teeth
+9050：toward(s) → toward / towards
+9238：tyre/tire → tyre / tire
+9369：utilize/utilise → utilize / utilise
+9398：vapor/vapour → vapor / vapour
+9523：wagon/waggon → wagon / waggon
+9816：woolen/woollen → woolen / woollen
+9892：Yacht → yacht
+
+词组表英文映射（原文文本行号）
+3：A few → a few
+5：A great deal/ → a great deal
+6：A good deal → a good deal
+9：A great many → a great many
+10：A good many → a good many
+12：A little → a little
+15：A lot/ a lot of /lots of → a lot / a lot of / lots of
+18：A number of → a number of
+20：About to → about to
+22：Above all → above all
+24：Accustomed to → accustomed to
+26：Add to → add to
+28：Add up to → add up to
+30：After a while → after a while
+32：After all → after all
+34：Agree on/upon → agree on / agree upon
+36：Agree with → agree with
+38：Ahead of → ahead of
+40：Ahead of time → ahead of time
+42：Aim at → aim at
+47：All at once → all at once
+49：All of a sudden → all of a sudden
+51：All out → all out
+53：All over → all over
+55：All right → all right
+58：All round → all round
+60：All the same → all the same
+62：And so forth → and so forth
+64：And so on → and so on
+66：Apply  to → apply to
+68：Approve of → approve of
+70：Around the clock → around the clock
+71：Round the clock → round the clock
+74：As a matter of fact → as a matter of fact
+76：As a result → as a result
+78：As a rule → as a rule
+80：As far as /so far as → as far as / so far as
+82：As for/as to → as for / as to
+84：As if/as though → as if / as though
+86：As long as /so long as → as long as / so long as
+88：As soon as → as soon as
+90：As usual → as usual
+92：As well as → as well as
+94：As well → as well
+96：As…..as → as ... as
+98：Ask for → ask for
+100：At a loss → at a loss
+102：At a time → at a time
+104：At all costs → at all costs
+107：At all → at all
+109：At any rate → at any rate
+111：At best/at the best → at best / at the best
+113：At first → at first
+115：At hand → at hand
+117：At heart → at heart
+119：At home → at home
+122：At large → at large
+124：At last → at last
+126：At least → at least
+128：At most/at the most → at most / at the most
+130：At once → at once
+132：At present → at present
+134：At cost of → at the cost of
+136：At the moment → at the moment
+138：At times → at times
+140：At work → at work
+142：At worst/at the worst → at worst / at the worst
+144：Back and forth → back and forth
+146：Back down/off → back down / back off
+148：Back up → back up
+150：Based on → based on
+152：Be friends with → be friends with
+154：Be made up of → be made up of
+156：Because of → because of
+158：Before long → before long
+160：Begin with → begin with
+162：Benefit from → benefit from
+164：Both…. And …. → both ... and ...
+166：Break away (from) → break away / break away from
+168：Break down → break down
+170：Break in → break in
+173：Break into → break into
+175：Break out → break out
+177：Break throught → break through
+179：Break up → break up
+181：bring about → bring about
+183：bring forward → bring forward
+185：bring out → bring out
+187：bring up → bring up
+189：build up → build up
+191：burn out → burn out
+193：burn up → burn up
+195：by accident/by chance → by accident / by chance
+197：by all means → by all means
+199：by and by → by and by
+201：by far → by far
+203：by hand → by hand
+205：by heart → by heart
+207：by itself → by itself
+209：by means of → by means of
+211：by mistake → by mistake
+213：by the way → by the way
+215：by turns → by turns
+217：by way of → by way of
+219：Call for → call for
+221：call off → call off
+223：call on/upon → call on / call upon
+226：call up → call up
+228：can not help → cannot help
+230：care  for → care for
+233：carry  on → carry on
+236：carry  out → carry out
+238：catch  fire → catch fire
+240：catch up with → catch up with
+242：Check  in → check in
+244：Check  out → check out
+247：Check  up/(up) on → check up / check on / check up on
+249：Clear  up → clear up
+252：come  about → come about
+254：come  aross → come across
+256：come  off → come off
+258：come on → come on
+260：come  out → come out
+263：come round/around → come round / come around
+265：come through → come through
+267：come to → come to
+269：come true → come true
+271：come up → come up
+273：compare…to → compare ... to
+275：consist  in → consist in
+277：consist of → consist of
+279：contribute to → contribute to
+281：convince….of → convince ... of
+283：correspond to → correspond to
+286：count up → count up
+288：cross out → cross out
+290：cut back → cut back
+292：cut down → cut down
+294：cut in → cut in
+296：cut off → cut off
+298：deal with → deal with
+300：die down → die down
+302：die out → die out
+304：do away with → do away with
+306：do one’s best → do one's best
+308：do without → do without
+310：draw up → draw up
+312：dress up → dress up
+314：drop by/in → drop by / drop in
+316：drop out → drop out
+318：due to → due to
+320：each other → each other
+322：either…or… → either ... or ...
+324：enjoy oneself → enjoy oneself
+326：even if/even though → even if / even though
+328：every now and then → every now and then
+330：every other → every other
+332：Except for → except for
+334：face to face → face to face
+336：face up to → face up to
+338：fall behind → fall behind
+340：fall in love (with) → fall in love / fall in love with
+342：far from → far from
+344：feel like → feel like
+346：figure out → figure out
+348：fill in → fill in
+350：fill out → fill out
+352：find out → find out
+354：focus on → focus on
+356：for example → for example
+358：for good → for good
+360：for instance → for instance
+362：for short → for short
+364：for the better → for the better
+366：for the moment → for the moment
+368：for the present → for the present
+370：for the time being → for the time being
+372：from time to time → from time to time
+374：get  across → get across
+376：get along (with) → get along / get along with
+378：get away (from) → get away / get away from
+380：get hold of → get hold of
+382：get in → get in
+384：get off → get off
+387：get on (with) → get on / get on with
+390：get out of → get out of
+392：get over → get over
+394：get rid of → get rid of
+396：get through → get through
+398：get together → get together
+400：get up → get up
+402：give away → give away
+404：give back → give back
+406：give in → give in
+408：give off → give off
+410：give out → give out
+412：give rise to → give rise to
+414：give up → give up
+417：give way to → give way to
+419：go about → go about
+421：go after → go after
+423：go ahead → go ahead
+425：go along with → go along with
+427：go around/round → go around / go round
+429：go by → go by
+431：go for → go for
+434：go in for → go in for
+437：go into → go into
+439：go off → go off
+442：go on (with) → go on / go on with
+444：go on the stage → go on the stage
+446：go out → go out
+448：go over → go over
+451：go through → go through
+454：go with → go with
+457：go without → go without
+460：good for → good for
+462：had better → had better
+464：hand down → hand down
+466：hand in → hand in
+468：hand in hand → hand in hand
+471：hand on → hand on
+473：hand out → hand out
+475：hand over → hand over
+477：hang about → hang about
+479：hang on to → hang on to
+482：hang on → hang on
+484：hang up → hang up
+486：have back → have back
+488：have on → have on
+490：have to do with → have to do with
+492：have to/have got to → have to / have got to
+494：have…..in mind → have ... in mind
+496：head for → head for
+498：heart and soul → heart and soul
+500：help oneself → help oneself
+502：here and there → here and there
+504：hold back → hold back
+506：hold on to → hold on to
+508：hold on → hold on
+510：hold out → hold out
+512：hold up → hold up
+515：how about → how about
+517：hurry up → hurry up
+519：if only → if only
+521：in a hurry → in a hurry
+523：in a moment → in a moment
+525：in  a  sense → in a sense
+527：in a word → in a word
+529：in addition (to) → in addition / in addition to
+531：in advance → in advance
+533：in all → in all
+535：in any case → in any case
+537：in brief → in brief
+539：in case of → in case of
+541：in case → in case
+543：in charge (of) → in charge / in charge of
+545：in common → in common
+547：in danger → in danger
+549：in debt → in debt
+551：in detail → in detail
+553：in difficulty/~ties → in difficulty / in difficulties
+555：in effect → in effect
+557：in fact → in fact
+559：in favo(u)r of → in favor of / in favour of
+562：in front of → in front of
+564：in future → in future
+566：in general → in general
+568：in half → in half
+570：in hono(u)r of → in honor of / in honour of
+573：in no time → in no time
+575：in one’s way/in the way → in one's way / in the way
+577：in order that → in order that
+579：in order to → in order to
+581：in order → in order
+583：in other words → in other words
+585：in particular → in particular
+587：in person → in person
+589：in place → in place
+591：in place of → in place of
+593：in practice → in practice
+595：in public → in public
+597：in question → in question
+599：in return(for) → in return / in return for
+601：in secret → in secret
+603：in short → in short
+605：in sight → in sight
+607：in spite of → in spite of
+609：in tears → in tears
+611：in the end → in the end
+613：in the face of → in the face of
+615：in the first place → in the first place
+617：in the future → in the future
+619：in the least → in the least
+621：in the world → in the world
+623：in time → in time
+625：in turn → in turn
+627：insist on/upon → insist on / insist upon
+629：instead of → instead of
+631：interfere in/with → interfere in / interfere with
+633：just now → just now
+635：keep an eye on → keep an eye on
+637：keep back → keep back
+640：keep down → keep down
+643：keep house → keep house
+645：keep in touch → keep in touch
+647：keep off → keep off
+649：keep on → keep on
+651：keep one’s word → keep one's word
+653：keep out of → keep out of
+655：keep track → keep track
+657：keep up with → keep up with
+659：keep up → keep up
+662：keep…in mind → keep ... in mind
+664：knock down → knock down
+666：knock out → knock out
+668：laugh at → laugh at
+670：lay down → lay down
+672：lay off → lay off
+675：lay out → lay out
+678：lead the way → lead the way
+680：lead to → lead to
+682：learn…by heart → learn ... by heart
+684：leave alone → leave alone
+687：leave behind → leave behind
+689：leave out → leave out
+691：let alone → let alone
+694：let down → let down
+696：let go → let go
+698：let in → let in
+700：let off → let off
+702：let out → let out
+705：line up → line up
+707：live on/by → live on / live by
+709：live through → live through
+711：live up to → live up to
+713：look after → look after
+715：look at → look at
+717：look back → look back
+719：look down upon → look down upon
+721：look for → look for
+723：look forward to → look forward to
+725：look in → look in
+727：look into → look into
+729：look on → look on
+731：look out → look out
+733：look over → look over
+735：look through → look through
+737：look up to → look up to
+739：look up → look up
+741：lose heart → lose heart
+743：make a difference → make a difference
+745：make for → make for
+747：make friends → make friends
+749：make fun of → make fun of
+751：make one’s way → make one's way
+753：make out → make out
+756：make sense → make sense
+758：make sure → make sure
+760：make the most of → make the most of
+762：make up → make up
+765：make up for → make up for
+767：make up one’s mind → make up one's mind
+769：make use of → make use of
+771：make way → make way
+773：mix up → mix up
+775：more or less → more or less
+777：neither…nor… → neither ... nor ...
+779：never mind → never mind
+781：no doubt → no doubt
+783：no longer → no longer
+785：no matter… → no matter ...
+787：no more → no more
+789：no sooner…than… → no sooner ... than ...
+791：no wonder → no wonder
+793：not as/so…as… → not as ... as ... / not so ... as ...
+795：not only…but(also)… → not only ... but ... / not only ... but also ...
+797：now that → now that
+799：of course → of course
+801：off and on → off and on
+803：off duty → off duty
+805：on behalf of → on behalf of
+807：on board → on board
+809：on business → on business
+811：on duty → on duty
+813：on earth → on earth
+815：on fire → on fire
+817：on foot → on foot
+819：on hand → on hand
+821：on one’s own → on one's own
+823：on purpose → on purpose
+825：on sale → on sale
+828：on schedule → on schedule
+830：on the average → on the average
+832：on the contrary → on the contrary
+834：on the one hand…on the other hand… → on the one hand ... on the other hand ...
+836：on the road → on the road
+838：on the spot → on the spot
+840：on the whole → on the whole
+842：on time → on time
+844：on top of → on top of
+846：once in a while → once in a while
+848：once more → once more
+850：once upon a time → once upon a time
+852：once after another → one after another
+854：One another → one another
+856：or else → or else
+858：or so → or so
+860：out of → out of
+864：out of breath → out of breath
+867：out of control → out of control
+869：out of danger → out of danger
+871：out of date → out of date
+873：out of doors → out of doors
+875：out of order → out of order
+877：out of place → out of place
+879：out of practice → out of practice
+881：out of sight → out of sight
+883：out of the question → out of the question
+885：out of touch → out of touch
+887：out of work → out of work
+889：owing to → owing to
+891：pass away → pass away
+893：pass out → pass out
+895：pay attention to → pay attention to
+897：pay back → pay back
+899：pick out → pick out
+901：pick up → pick up
+905：play with → play with
+907：point out → point out
+909：pull down → pull down
+911：pull out → pull out
+913：pull up → pull up
+915：put across → put across
+917：put aside → put aside
+919：put away → put away
+921：put down → put down
+923：put forward → put forward
+925：put off → put off
+927：put on → put on
+930：put out → put out
+933：put up with → put up with
+935：put up → put up
+940：quite a little → quite a little
+942：quite a few → quite a few
+944：rather than → rather than
+946：refer to → refer to
+948：rely on → rely on
+950：remind sb. of → remind sb. of
+952：result from → result from
+954：result in → result in
+956：ring up → ring up
+958：rub out → rub out
+960：run across → run across
+962：run down → run down
+964：run for → run for
+966：run into → run into
+968：run out(of) → run out / run out of
+970：run over → run over
+972：run through → run through
+974：see (to it) that → see that / see to it that
+977：see about → see about
+979：see into → see into
+981：see off → see off
+983：see through → see through
+985：seek after/for → seek after / seek for
+987：send for → send for
+989：send in → send in
+991：serve as → serve as
+993：set about → set about
+995：set aside → set aside
+997：set back → set back
+999：set fire to → set fire to
+1001：set off → set off
+1004：set out → set out
+1007：set up → set up
+1010：settle down → settle down
+1012：show in → show in
+1014：show off → show off
+1016：show up → show up
+1018：shut down → shut down
+1020：shut out → shut out
+1022：shut up → shut up
+1024：sick of → sick of
+1026：side by side → side by side
+1028：sit up → sit up
+1030：slow down → slow down
+1032：so far → so far
+1034：so that → so that
+1037：so…as to… → so ... as to ...
+1040：so…that… → so ... that ...
+1042：sooner or later → sooner or later
+1044：speak of → speak of
+1046：speak out → speak out
+1048：speed up → speed up
+1050：stand by → stand by
+1053：stand for → stand for
+1055：stand out → stand out
+1057：stand up for → stand up for
+1059：stand up to → stand up to
+1061：stand up → stand up
+1063：step by step → step by step
+1065：step down → step down
+1067：step in → step in
+1069：Step up → step up
+1071：Stick to → stick to
+1073：Substitute for → substitute for
+1075：Such as → such as
+1078：Such  that → such that
+1080：Sum up → sum up
+1082：Take a chance → take a chance
+1084：Take advantage of → take advantage of
+1086：Take after → take after
+1088：Take apart → take apart
+1090：Take care → take care
+1092：Take care of → take care of
+1095：Take charge → take charge
+1097：Take delight in → take delight in
+1099：Take down → take down
+1101：Take effect → take effect
+1103：Take ….for granted → take ... for granted
+1105：Take for → take for
+1107：Take in → take in
+1110：Take off → take off
+1112：Take on → take on
+1116：take one’s time → take one's time
+1118：take over → take over
+1120：take pains → take pains
+1122：take part（in） → take part / take part in
+1124：take place → take place
+1126：take the place of → take the place of
+1128：take turns → take turns
+1130：take up → take up
+1134：talk back → talk back
+1136：talk into → talk into
+1138：talk over → talk over
+1140：thanks to → thanks to
+1142：that is → that is
+1144：the moment that → the moment that
+1146：think better of → think better of
+1148：think of → think of
+1150：think of as → think of as
+1152：think over → think over
+1154：throw away → throw away
+1156：throw up → throw up
+1158：touch on → touch on
+1160：try on → try on
+1162：try out → try out
+1164：try one’s best → try one's best
+1166：turn down → turn down
+1168：turn in → turn in
+1171：turn into → turn into
+1173：turn off → turn off
+1175：turn on → turn on
+1177：turn out → turn out
+1181：turn over → turn over
+1183：turn to → turn to
+1185：turn up → turn up
+1187：under control → under control
+1189：under the circumstances → under the circumstances
+1192：under way → under way
+1194：up to date → up to date
+1196：up to → up to
+1199：use  up → use up
+1201：Wait  on → wait on
+1203：warm  up → warm up
+1205：watch out（for） → watch out / watch out for
+1207：wear  down → wear down
+1209：What   about → what about
+1211：what if → what if
+1214：Whether  or → whether ... or ...
+1216：wipe  out → wipe out
+1218：Work  at/on → work at / work on
+1220：work  out → work out
+1223：Work  up → work up
+1226：worry  about → worry about
+1228：Would  rather → would rather
+
+原文件 SHA-256
+词汇表.doc：a2559445f82f673803aa8966f75034c705242469b016e8d253f1aff7bb71b167
+词组表.doc：9ddfdc1a532cd38a27776070f7c16f145a37946e882b826fecc79422203645a1
+
+拼写核对参考
+https://dictionary.cambridge.org/dictionary/english/contradiction
+https://dictionary.cambridge.org/us/dictionary/english/detail
+https://dictionary.cambridge.org/us/dictionary/english/applicant
+https://dictionary.cambridge.org/dictionary/english/databank
+https://github.com/dwyl/english-words（仅用于标记疑似拼写错误，未因词表未收录而删除词条）

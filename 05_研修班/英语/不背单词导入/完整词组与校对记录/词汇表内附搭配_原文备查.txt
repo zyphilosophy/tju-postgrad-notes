@@ -1,0 +1,737 @@
+词汇表中附带的搭配和多词表达
+以下保留原文，包括原有简写、释义和可能的错误；未放入每行一个单词的导入文件。
+行号为提取正文后的文本行号，供核对来源，不是 Word 页码。
+
+原文行 11：able to inf. 能,会
+原文行 21：be about to+inf.即将
+原文行 26：above all首要,尤其
+原文行 37：be absorbed in专心于
+原文行 52：have/gain access to可以获得
+原文行 56：by accident偶然
+原文行 61：according to按照,根据
+原文行 65：account for说明（原因等）
+原文行 66：on account of因为,由于
+原文行 67：take …into account考虑
+原文行 74：be accustomed to习惯于
+原文行 115：add up to合计,总计
+原文行 118：in addition另外
+原文行 119：in addition to除...之外
+原文行 143：in advance提前,预先
+原文行 148：gain/have an advantage over胜过,优于
+原文行 149：take advantage of利用
+原文行 208：ahead of在...前面,先于
+原文行 218：in the air在流行中,在传播中
+原文行 240：above all首要,尤其
+原文行 241：after all终于,毕竟;虽然这样
+原文行 242：all but几乎,差一点;除...之外其余都
+原文行 243：all out全力以赴,竭尽全力
+原文行 244：all over遍及,到处
+原文行 245：all right行,可以;顺利,良好
+原文行 246：at all完全,根本
+原文行 247：in all总共,共计
+原文行 248：not at all一点也不
+原文行 251：allow for考虑到
+原文行 254：make allowance(s) for考虑到,顾及;体谅,原谅
+原文行 260：leave/let...alone听其自然,不要去管
+原文行 261：let alone更不用说
+原文行 265：along with与...一起
+原文行 344：one after another一个接一个
+原文行 345：one another互相
+原文行 370：anything but除...以外任何事(物),根本不
+原文行 377：apart from除去
+原文行 465：arrive at达到,得出
+原文行 493：aside from除...以外
+原文行 549：attached to附属于,隶属于
+原文行 560：pay attentin to注意
+原文行 624：right away立即,马上
+原文行 710：on the basis of根据,在...的基础上
+原文行 773：on behalf of代表,为了
+原文行 912：on board在船(车,飞机)上
+原文行 963：both...and既...又...,两个都
+原文行 1068：build up积累,堵塞;树立,逐步建立;增进,锻炼
+原文行 1073：in bulk散装;大批,大量
+原文行 1087：burn out烧掉
+原文行 1095：trolley bus无轨电车
+原文行 1100：on business因公,因事
+原文行 1108：but for除...以外,倘没有,除非
+原文行 1211：carbon dioxide二氧化碳
+原文行 1214：ID card身份证
+原文行 1215：credit card信用卡
+原文行 1239：in any case无论如何,总之
+原文行 1240：in case假如,以防(万一),免得
+原文行 1241：in case of假使,万一
+原文行 1242：in no case决不
+原文行 1284：per cent百分之
+原文行 1336：in charge (of)负责,主管
+原文行 1337：take charge of担任,负责
+原文行 1594：come off实现,成功,奏效
+原文行 1595：come on请,来吧,跟着来,快点;开始,来临;进展,发展;出场,上演
+原文行 1596：come out出版,刊出;出现,显露,长出;结果是,结局是;被解出
+原文行 1597：come round/around来访,前来;苏醒,复原
+原文行 1598：come through经历,脱险
+原文行 1599：come to总计,达到;苏醒,复原
+原文行 1600：come true实现,达到
+原文行 1601：come up走近,上来;发生,被提出
+原文行 1602：come up to达到,符合
+原文行 1603：come up with提出,提供
+原文行 1631：in common共用,共有,共同
+原文行 1646：keep company with与...交往,与...结伴
+原文行 1653：compare...to把...比作
+原文行 1656：by comparison比较起来
+原文行 1712：as/so far as...be concerned就...来说
+原文行 1713：be concened with关心,挂念,从事于
+原文行 1720：in conclusion最后,总之
+原文行 1729：on condition that在...条件下
+原文行 1827：on the contrary反之,正相反
+原文行 1831：in contrast with/to与...成反比
+原文行 1900：at all costs不惜任何代价,无论如何
+原文行 1901：at the cost of以...为代价
+原文行 1918：count on依靠,期待,指望
+原文行 1919：count up把...相加
+原文行 1937：in the course of在...过程中,在...期间
+原文行 1938：of course当然,自然,无疑
+原文行 1946：cover up掩饰,掩盖
+原文行 2003：cross out删去,取消
+原文行 2060：cut across走捷径,抄近路
+原文行 2061：cut back削减,降低
+原文行 2062：cut down削减,减少
+原文行 2063：cut in(汽车)抢挡;插嘴,打断
+原文行 2064：cut off切断,使隔绝;前去,删去;打断,停止
+原文行 2065：cut out删除
+原文行 2066：cut short突然停止
+原文行 2095：in danger在危险中,垂危
+原文行 2096：out of danger脱离危险
+原文行 2112：out of date过期
+原文行 2113：to date到目前为止
+原文行 2114：up to date时新的
+原文行 2134：deal with处理,对付,安排
+原文行 2147：in bebt欠债,欠情
+原文行 2208：take delight in以...为乐
+原文行 2282：in detail详细地
+原文行 2326：die down渐渐消失,平息
+原文行 2327：die off相继死去
+原文行 2328：die out消失,灭绝
+原文行 2331：be on a diet节食
+原文行 2336：make a/the difference有影响,很重要
+原文行 2409：in the distance在远处
+原文行 2441：do away with废除,去掉
+原文行 2442：do without没有...也行
+原文行 2443：have nothing to do with和...毫无关系
+原文行 2444：have (something) to do with和...有(点)关系
+原文行 2451：hot dog红肠面包,热狗
+原文行 2462：next door隔壁
+原文行 2463：out of doors在户外
+原文行 2477：double up弯腰,把...折起来
+原文行 2480：no doubt无疑,必定
+原文行 2505：draw in(火车,汽车)到站
+原文行 2506：draw on动用,利用;吸,抽(烟)
+原文行 2507：draw up写出,画出;草拟;停住
+原文行 2515：dress up穿上盛装,打扮得漂漂亮亮
+原文行 2534：drop by/in顺便来访
+原文行 2535：drop off减弱,减少
+原文行 2536：drop out退出,离队
+原文行 2553：due to由于,因为
+原文行 2570：off duty下班
+原文行 2571：on duty值班,上班
+原文行 2580：each other互相
+原文行 2598：on earth究竟,到底;在世界上
+原文行 2607：the Middle East中东
+原文行 2638：carry/bring into effect使生效,使起作用
+原文行 2639：put into effect实行,生效
+原文行 2640：come/go into effect生效,实施
+原文行 2641：in effect有效;实际上
+原文行 2642：take effect生效,起作用
+原文行 2664：either...or或...或,不是...就是;不论...还是
+原文行 2704：or else否则,要不然
+原文行 2749：in the end最后,终于
+原文行 2779：enjoy oneself过得快活
+原文行 2860：even if/though即使,虽然
+原文行 2861：even then即使那样,连...都
+原文行 2866：at all events无论如何
+原文行 2867：in any event无论如何
+原文行 2868：in the event of万一,如果发生
+原文行 2873：for ever永远
+原文行 2907：for example例如
+原文行 2914：except for除...之外
+原文行 2917：with the exception of除...之外
+原文行 2921：in excess of超过
+原文行 3026：catch one’s eye引人注目
+原文行 3027：keep an eye on留意,照看
+原文行 3038：face to face面对面对
+原文行 3039：face up to大胆面向
+原文行 3040：in the face of面对,在...面前;不顾,即使
+原文行 3041：make a face做鬼脸
+原文行 3046：in fact其实,实际上
+原文行 3047：matter of fact实际情况,真相
+原文行 3059：fail to未能
+原文行 3077：fall behind落后
+原文行 3078：fall back on求助于,转而依靠
+原文行 3079：fall in with符合,与...一致;碰见
+原文行 3080：fall out争吵,结果是
+原文行 3081：fall through落空,失败
+原文行 3105：as far as/so far as远至,到...程度
+原文行 3106：by far...得多,最
+原文行 3107：far from远非,远离
+原文行 3108：so far迄今为止
+原文行 3145：find fault埋怨,挑剔
+原文行 3151：in favor of有利于,便于,赞成,支持
+原文行 3177：feed in输入
+原文行 3178：be fed up(with)感到厌烦
+原文行 3183：feel like欲,想要
+原文行 3209：quite a few还不少,有相当数目的
+原文行 3236：fill in/out填充,填写
+原文行 3251：find out查明
+原文行 3264：catch fire着火
+原文行 3265：set fire to点燃
+原文行 3266：on fire烧着
+原文行 3276：at first最初,首先
+原文行 3277：first of all首先,第一
+原文行 3355：as follows如下
+原文行 3365：make a fool of玩弄,愚弄
+原文行 3370：on foot步行
+原文行 3383：in force有效,在实施中
+原文行 3384：come/go into force生效,实施
+原文行 3415：and so forth等等
+原文行 3456：set free释放
+原文行 3478：make friends交朋友,友好相处
+原文行 3479：be friends with对...友好,与...交上朋友
+原文行 3494：in front of在...前面
+原文行 3514：make fun of取笑,嘲弄
+原文行 3540：make a fuss of娇养(某人),过分关怀(某人)
+原文行 3544：in (the) future今后,将来
+原文行 3589：in general通常,大体上
+原文行 3618：get across解释清楚,使人了解
+原文行 3619：get along/on with进展相处融洽;生活,过活
+原文行 3620：get around/round走动,旅行;(消息)传开
+原文行 3621：get around/round to找时间做,开始考虑
+原文行 3622：get at得到,接近;意思是
+原文行 3623：get away逃脱,离开
+原文行 3624：get by通过,经过
+原文行 3625：get down从...下来;写下
+原文行 3626：get down to开始,着手
+原文行 3627：get in进入;收获,收集
+原文行 3628：get into进入,陷入
+原文行 3629：get off从...下来,离开,动身,开始
+原文行 3630：get out of逃避,改掉
+原文行 3631：get over克服,(从病中)恢复过来
+原文行 3632：get the better of占上风,胜过
+原文行 3633：get through结束,完成;接通电话
+原文行 3634：get together集合,聚集
+原文行 3635：get up起床;增加,增强
+原文行 3647：give away泄露;分送
+原文行 3648：give back送还,恢复
+原文行 3649：give in交上;投降,屈服
+原文行 3650：give off放出,释放
+原文行 3651：give oneself away泄露,露马脚
+原文行 3652：give oneself up自首,投降,投案
+原文行 3653：give out分发,放出
+原文行 3654：give up停止,放弃
+原文行 3655：give way to给...让路,对...让步;被...代替
+原文行 3687：go after追求
+原文行 3688：go ahead开始,前进,领先
+原文行 3689：go along with陪同前往,随行
+原文行 3690：go around/round足够分配
+原文行 3691：go back on违背
+原文行 3692：go by过去
+原文行 3693：go down下降,降低;被载入,传下去
+原文行 3694：go for竭力想取得,喜爱,支持,拥护
+原文行 3695：go in for从事,致力于,追求,沉迷于
+原文行 3696：go into进入;研究,调查
+原文行 3697：go off爆炸,发射;动身,离开
+原文行 3698：go on继续,发生
+原文行 3699：go out外出,熄灭
+原文行 3700：go over检查,审查;复习,重温
+原文行 3701：go through经历,经受;详细检查
+原文行 3702：go under下沉,沉没;失败,破产
+原文行 3703：go up上升,增加;建起
+原文行 3704：go with伴随,与...协调
+原文行 3705：go without没有...也行
+原文行 3721：as good as和...几乎一样,实际上等于
+原文行 3722：for good永久地
+原文行 3723：good for有效,适用,胜任
+原文行 3763：take...for granted想当然,认为理所当然
+原文行 3833：on guard警惕,防范
+原文行 3865：in half成两半
+原文行 3877：at hand在手边,在附近,即将到来
+原文行 3878：by hand用手
+原文行 3879：hand down流传下来,传给,往下传
+原文行 3880：hand in交上,递交
+原文行 3881：hand in hand手拉着手,携手;结合起来,联合
+原文行 3882：hand on传下来,依次传递
+原文行 3883：hand out分发,散发,发给
+原文行 3884：hand over交出,移交,让与
+原文行 3885：in hand在控制中,在进行中
+原文行 3886：on hand在手边,临近
+原文行 3887：on (the) one hand...,on the other hand一方面...,另一方面...
+原文行 3903：hang about闲荡,徘徊,逗留
+原文行 3904：hang back犹豫,踌躇,畏缩
+原文行 3905：hang on抓紧不放;继续下去,等一下
+原文行 3906：hang on to紧握住,坚持下去
+原文行 3907：hang up挂断(电话)
+原文行 3910：happen to+inf.碰巧,偶然
+原文行 3923：hardly any几乎没有,几乎什么也不
+原文行 3924：hardly...when/before刚一...就...
+原文行 3941：in haste匆忙地;草率地
+原文行 3957：have back要回,收回
+原文行 3958：have on穿着,戴着
+原文行 3959：have to/have got to不得不,必须
+原文行 3960：have to do with与...有关
+原文行 3973：head for驶向,走向
+原文行 3974：head on迎头,迎面
+原文行 3975：keep one’s head保持镇静
+原文行 3976：lose one’s head不知所措
+原文行 4002：at heart在内心,实质上
+原文行 4003：by heart牢记,凭记忆
+原文行 4004：get/learn by heart记住,背诵
+原文行 4005：heart and soul全心全意
+原文行 4006：lose heart丧失勇气,失去信心
+原文行 4030：can’t/couldn’t help禁不住;不得不
+原文行 4031：help oneself自取所需(食物等)
+原文行 4047：here and there到处,处处
+原文行 4106：get hold of抓住,掌握
+原文行 4107：hold back踌躇,退缩;阻止,抑制
+原文行 4108：hold on继续,握住不放
+原文行 4109：hold on to紧紧抓住,坚持
+原文行 4110：hold out维持,支持;坚持,不屈服
+原文行 4111：hold up举起,承载;阻挡,使停止;抢劫,拦截
+原文行 4125：at home在家,在国内;自在,自如
+原文行 4126：home and abroad国内外
+原文行 4136：in honor of为纪念,向...表示敬意
+原文行 4137：on one’s honor以名誉担保
+原文行 4179：keep house管理家务,做家务
+原文行 4187：how about...如何,...怎样
+原文行 4209：hundreds of数以百计,许多
+原文行 4212：hunger after渴望
+原文行 4213：hunger for渴望
+原文行 4221：hurry up(使)赶快,迅速完成
+原文行 4222：in a hurry匆忙地,急于
+原文行 4256：if only要是...多好;要是,只要
+原文行 4314：improve on改进
+原文行 4431：for instance例如,举例说
+原文行 4437：instead of代替,而不是;不是...(而是)
+原文行 4500：at intervals不时,时时
+原文行 4555：by itself独自,单独
+原文行 4556：in itself本身
+原文行 4636：keep back阻止,阻挡;隐瞒,保留
+原文行 4637：keep down控制,压制,镇压;压低,放低(声音)
+原文行 4638：keep from使...不(做)
+原文行 4639：keep off不接近,避开
+原文行 4640：keep on继续不断,保持
+原文行 4641：keep out of躲开,置身...之外
+原文行 4642：keep to坚持,保持
+原文行 4643：keep up保持,维持;继续进行,坚持
+原文行 4644：keep up with向...看齐,跟上...
+原文行 4694：knock down撞倒,击倒
+原文行 4695：knock out击倒,击昏
+原文行 4701：known as被认为是,被称为
+原文行 4741：at large一般;大体上
+原文行 4750：at last最终,终于
+原文行 4782：lay aside把...搁置一边;储蓄
+原文行 4783：lay down放下;制定,拟定;铺设
+原文行 4784：lay off(临时)解雇;休息
+原文行 4785：lay out安排,布置;陈列,展示;设计,制定
+原文行 4814：at least至少,最低限度
+原文行 4815：in the least一点,丝毫
+原文行 4821：leave behind留下,忘记带
+原文行 4822：leave out遗漏,略去
+原文行 4833：at leisure从容地,有空
+原文行 4838：lend itself to适宜于,对...有用
+原文行 4841：at length终于,最后;详细地
+原文行 4848：no less than决不少于,不亚于,不次于;(和...)一样
+原文行 4853：let alone不干涉;更不用说
+原文行 4854：let down放下,降低;使失望
+原文行 4855：let go放开,松手
+原文行 4856：let in让...进入,放...进来
+原文行 4857：let loose放开,放松,释放
+原文行 4858：let off放(炮,烟火),开(枪);宽恕,从宽处理;免除
+原文行 4859：let out放掉,放出,发出;放大(衣服);放松(绳子)
+原文行 4890：lie in在于
+原文行 4902：cast/shed/throw light on/upon使明白,阐明
+原文行 4903：in (the) light of按照,根据
+原文行 4930：in line成一直线,排成一行
+原文行 4931：in line with和...成直线,与...一致,按照
+原文行 4932：line up排队,使排成一行
+原文行 4961：little by little逐渐地
+原文行 4962：quite a little相当多,不少
+原文行 4966：live on/by靠...生活,以...为食
+原文行 4967：live through度过,经受过
+原文行 4968：live up to做到,不辜负
+原文行 5001：as long as/so long as只要,如果
+原文行 5002：before long不久以后
+原文行 5003：for long长久地
+原文行 5004：no longer不再,已不
+原文行 5008：look after照管,照料
+原文行 5009：look at看望,注视
+原文行 5010：look back回顾,回头看
+原文行 5011：look down on看不起,轻视
+原文行 5012：look for寻找,寻求
+原文行 5013：look forward to盼望,期待
+原文行 5014：look in顺便看望
+原文行 5015：look into调查,观察,过问,窥视
+原文行 5016：look on旁观,观看;看待;视作
+原文行 5017：look out留神,注意,提防,警惕
+原文行 5018：look over检查,查看,调查
+原文行 5019：look through仔细查看,浏览,温习
+原文行 5020：look up查阅,查寻
+原文行 5021：look up to尊敬,敬仰
+原文行 5034：at a loss困惑,不知所措
+原文行 5038：lots of大量,很多
+原文行 5044：fall in love (with)相爱,爱上
+原文行 5069：lunar calendar农历
+原文行 5118：be made up of由...构成,由...组成
+原文行 5119：make for走向,驰向;有助于,有利于
+原文行 5120：make out辨认,区分;理解,了解;开列,书写
+原文行 5121：make up构成,组成,拼凑;弥补,赔偿;化装,编造;和解
+原文行 5122：make up for补偿,弥补
+原文行 5151：many a许多的
+原文行 5168：mark time原地踏步,停止不前,拖延时间
+原文行 5208：as a matter of fact其实,事实上
+原文行 5209：no matter how(what,when...etc.)无论怎样(什么,何时...等)
+原文行 5235：by all means无论如何,必定
+原文行 5236：by means of借助于,用
+原文行 5237：by no mean决不
+原文行 5278：in memory of纪念
+原文行 5341：millions of无数
+原文行 5345：bear/keep in mind记住
+原文行 5346：have in mind记住,考虑到,想到
+原文行 5347：make up one’s mind(to +inf.)下决心
+原文行 5348：never mind不要紧,没关系
+原文行 5399：by mistake错误地
+原文行 5404：mix up混合;混淆,搞糊涂
+原文行 5430：at the moment现在,此刻
+原文行 5431：for a moment片刻,一会儿
+原文行 5432：for the moment现在,暂时
+原文行 5433：in a moment立刻,马上
+原文行 5434：the moment (that)一...就
+原文行 5467：more and more越来越
+原文行 5468：more or less或多或少;几乎
+原文行 5469：no more不再
+原文行 5470：no more than不过,仅仅,和...一样不
+原文行 5486：at most/at the most最多,至多,不超过
+原文行 5487：make the most of充分利用
+原文行 5590：by nature天生,就其本性而言
+原文行 5591：in nature本质上
+原文行 5637：neither...nor既不...也不...
+原文行 5732：nothing but只有,仅仅
+原文行 5748：every now and then有时,时时,偶尔
+原文行 5749：just now刚才,一会儿以前
+原文行 5750：now and then时而,不时
+原文行 5751：now that既然,由于
+原文行 5806：on occasion有时,不时
+原文行 5815：occur to被想到,被想起
+原文行 5833：off and on断断续续,不时地
+原文行 5865：and so on等等
+原文行 5870：all at once突然,同时,一起
+原文行 5871：at once立刻,马上
+原文行 5872：once (and) for all一劳永逸,限此一次
+原文行 5873：once more再一次,又一次
+原文行 5878：one another互相
+原文行 5881：by oneself独立地,单独地
+原文行 5902：come/go into operation开始运转,开工
+原文行 5903：put/bring into operation使投入生产,使运转
+原文行 5939：in order秩序井然,整齐
+原文行 5940：in order to以便,为了
+原文行 5941：on order that以便
+原文行 5942：out of order发生故障,失调
+原文行 5943：put in order整理,检修
+原文行 5971：every other每隔一个的
+原文行 5972：other than不同于
+原文行 5988：out of丧失,失去;缺乏,没有
+原文行 6019：over and over (again)一再,再三
+原文行 6046：owing to由于
+原文行 6052：on one’s own独自地,独立地
+原文行 6065：keep/hold pace with跟上,与...同步
+原文行 6083：take pains尽力,煞费苦心
+原文行 6137：play a part (in)起作用
+原文行 6138：take part in参加
+原文行 6150：in particular特别地,尤其,详细地
+原文行 6160：pass away去世,逝世
+原文行 6161：pass off中止,停止
+原文行 6162：pass out失去知觉,昏倒
+原文行 6177：in the past在过去
+原文行 6213：pay back偿还,回报
+原文行 6214：pay off还清(债),给清工资后遣散;使...利益;有报偿
+原文行 6215：pay up全部付清
+原文行 6287：in person亲自
+原文行 6335：pick out选出,挑出,拣出;辨认,辨别出
+原文行 6336：pick up拾起,拣起;增加,改进;(偶然)得到;(车船)中途搭(人),中途带(货);获得,学会
+原文行 6391：in place在适当的位置
+原文行 6392：in place of代替
+原文行 6393：in the first place起初,首先
+原文行 6394：in the last place最后
+原文行 6395：out of place不得其所的,不适当的
+原文行 6396：take place发生,进行
+原文行 6397：take the place of代替
+原文行 6424：fair play公平的竞赛,公平对待,光明磊落
+原文行 6425：play with以...为消遣,玩弄
+原文行 6470：come to the point说到要点,扼要地说
+原文行 6471：on the point of即将...的时候
+原文行 6472：point out指出
+原文行 6473：to the point切中要害,切题
+原文行 6544：post office邮局
+原文行 6577：bring/put...into practice实施,实行
+原文行 6578：in practice在实践中,实际上
+原文行 6579：out of practice久不练习,荒疏
+原文行 6615：at present目前,现在
+原文行 6616：for the present目前,暂时
+原文行 6719：make progress进步,进展
+原文行 6749：in proportion (to)(与...)成比例的
+原文行 6790：in public公开地,当众
+原文行 6800：pull down拆毁,拉倒;拉下,降低
+原文行 6801：pull in(车)停下,进站,(船)到岸
+原文行 6802：pull off脱(帽,衣等)
+原文行 6803：pull on穿,戴
+原文行 6804：pull out拔出,抽出,取出;(车,船等)驶出;(车辆)减速
+原文行 6805：pull up(使)停下
+原文行 6832：for (the) purpose of为了
+原文行 6833：on purpose故意,有意
+原文行 6834：with the purpose of为了
+原文行 6844：put across解释清楚,说明
+原文行 6845：put aside储存,保留
+原文行 6846：put away放好,收好;储存
+原文行 6847：put down记下,放下;镇压,平定
+原文行 6848：put forward提出
+原文行 6849：put in驶进
+原文行 6850：put in for申请
+原文行 6851：put off推迟,推延
+原文行 6852：put on穿上,戴上;上演;增加(体重)
+原文行 6853：put out熄灭,消灭,关(灯);出版,发布;生产
+原文行 6854：put up提出,举起,升起,提(价);为...提供食宿,投宿;建造;搭起,支起;张贴
+原文行 6855：put up with容忍,忍受
+原文行 6878：in question正在考虑
+原文行 6950：at any rate无论如何,至少
+原文行 6953：had/would rather...than宁愿...,而不愿
+原文行 6954：rather than而不,不顾
+原文行 7001：by reason of由于
+原文行 7021：reckon on依靠,指望
+原文行 7022：reckon with估计到,预料到;处理,对付
+原文行 7049：refer to参考,查阅;涉及,提到;把...提交
+原文行 7050：refer to...as把...称作,把...当作
+原文行 7075：as regards关于,至于
+原文行 7076：with/in regard to对于;就...而论
+原文行 7098：in/with relation to关系到
+原文行 7233：with respect to关于
+原文行 7260：as a result结果,因此
+原文行 7261：as a result of由于...的结果
+原文行 7275：in return作为回报,作为报答
+原文行 7312：get rid of摆脱,除去
+原文行 7327：all right好,行
+原文行 7333：ring off挂断电话
+原文行 7339：give rise to引起,使发生;造成
+原文行 7351：on the road在旅途中
+原文行 7381：rest room带厕所或盥洗室的休息室
+原文行 7403：all round周围,处处
+原文行 7416：rub out擦掉,试去
+原文行 7431：as a rule通常,照例
+原文行 7439：run down撞倒,停掉,撞沉;追捕,追获,追查出
+原文行 7440：run for竞选
+原文行 7441：run into撞上,偶然碰见
+原文行 7442：run off复印,打印
+原文行 7443：run out of用完,用尽,耗尽
+原文行 7444：run over溢出,满出;略读,略述;辗过;浏览,匆匆复习
+原文行 7445：in the long run最终,从长远观点看来
+原文行 7481：for the sake of为了...起见,看在...的份上
+原文行 7488：on sale出售;贱卖
+原文行 7497：all the same仍然,照样地
+原文行 7498：the same as与...一致,与...相同的
+原文行 7535：on a large scale大规模地
+原文行 7536：on a small scale小规模地
+原文行 7556：ahead of schedule提前
+原文行 7557：behind schedule晚点
+原文行 7558：on schedule按预定时间
+原文行 7586：start from scratch从头做起,从零开始
+原文行 7622：in secret秘密地,私下地
+原文行 7634：see off给...送行
+原文行 7635：see through看穿,识破;干完,干到底
+原文行 7636：see to注意,负责,照料;修理
+原文行 7667：send for派人去请,召唤;索取
+原文行 7668：send in呈报,提交,送来
+原文行 7675：in a sense从某种意义上说
+原文行 7676：make sense讲得通,有意义,言之有理
+原文行 7692：in sequence依次,逐一
+原文行 7702：serve as作为,用作
+原文行 7703：serve sb.right活该;给某人应得的待遇
+原文行 7711：set about开始,着手
+原文行 7712：set aside挑出,拨出,留出;拒绝
+原文行 7713：set back推迟,延缓,阻碍
+原文行 7714：set down卸下,放下;记下,记入
+原文行 7715：set forth阐明,陈述
+原文行 7716：set off出发,动身,引起,使发生
+原文行 7717：set out陈列,显示;动身,起程;制定
+原文行 7718：set out to打算,着手
+原文行 7719：set up创立,建立,树立;资助,扶持
+原文行 7724：settle down定居,过安定的生活
+原文行 7755：in shape处于良好状态
+原文行 7756：take shape成形
+原文行 7818：cut short中断,简化
+原文行 7819：run short用完,耗尽
+原文行 7820：for short简称,缩写
+原文行 7821：in short简言之,总之
+原文行 7838：show in领入
+原文行 7839：show off炫耀,卖弄
+原文行 7840：show up使呈现,使醒目;出席,到场
+原文行 7848：shut out排除
+原文行 7853：sick of厌烦
+原文行 7857：on the side作为兼职,额外
+原文行 7858：side by side肩并肩,一个挨一个
+原文行 7859：side walk人行道
+原文行 7865：at first sight乍一看,初看起来
+原文行 7866：in sight被见到,在望
+原文行 7867：catch sight of发现,突然看见
+原文行 7868：out of sight看不见,在视野之外
+原文行 7905：ever since从那时起,自那时以来
+原文行 7923：sit up迟睡,熬夜
+原文行 7924：sit for参加
+原文行 7925：sit in列席,旁听
+原文行 8023：and so on/forth等待
+原文行 8024：ever so非常,极其
+原文行 8025：or so大约,左右
+原文行 8026：so..as to结果是;如此...以至于,如此...以使
+原文行 8027：so far迄今为止
+原文行 8028：so that以便,为的是
+原文行 8029：so...that如此...以至于
+原文行 8095：as soon as一...就,刚...便
+原文行 8096：no sooner...than一...就,刚...便
+原文行 8097：sooner or later迟早,早晚
+原文行 8180：speed up使加速
+原文行 8224：on the spot当场,在现场
+原文行 8252：(go) on the stage当演员
+原文行 8260：at stake在危险中,利害攸关
+原文行 8267：stand by支持,帮助,站在一边;袖手旁观
+原文行 8268：stand for代替,代表,意味着
+原文行 8269：stand out突出,显眼
+原文行 8270：stand up站起来,耐用
+原文行 8271：stand up for为...辩护,维护
+原文行 8272：stand up to勇敢地面对,坚持抵抗,经得起
+原文行 8327：in step同步,合拍
+原文行 8328：step by step逐步
+原文行 8329：step up提高,加快,加紧
+原文行 8330：out of step步调不一致,不协调
+原文行 8331：step in插入,介入
+原文行 8338：sick out伸出,突出;坚持到底;继续
+原文行 8339：sick to坚持;忠于;信守
+原文行 8355：in stock现有,备有
+原文行 8476：in succession连续地
+原文行 8483：such as像...那样,诸如,例如
+原文行 8484：such...that那样的...以致
+原文行 8487：all of a sudden突然
+原文行 8508：in sum总而言之
+原文行 8509：sum up总结,概括
+原文行 8554：make sure of/that查明,弄确实;确信;确定,务必
+原文行 8651：take...as把...作为
+原文行 8652：take after与...想像
+原文行 8653：take apart拆卸
+原文行 8654：take away消除,消耗
+原文行 8655：take down记下,写下
+原文行 8656：take...for把...认为是,把...看成是
+原文行 8657：take in接受,吸收;了解,理解;欺骗
+原文行 8658：take off拿起;脱下;起飞
+原文行 8659：take on呈现,具有,装出;接纳,承担,从事
+原文行 8660：take over接管,接办
+原文行 8661：take up占去,占据;开始从事;拿起,接收
+原文行 8662：take to喜欢,亲近
+原文行 8670：talk back回嘴,顶嘴
+原文行 8671：talk into说服
+原文行 8691：tape recorder磁带录音机
+原文行 8718：in tears流着泪,含泪,哭
+原文行 8742：lose one’s temper发怒,发脾气
+原文行 8767：in terms of依据,按照;用...措词
+原文行 8793：thanks to由于,幸亏
+原文行 8800：so that为的是,使得
+原文行 8801：that is(=i.e.)就是说,即
+原文行 8820：and then而且,其次,于是,然后
+原文行 8848：for one thing首先,一则
+原文行 8851：think of想起,想到;想一想
+原文行 8852：think of...as把...看作是,以为...是
+原文行 8853：think over仔细考虑
+原文行 8854：think better of改变主意,重新考虑
+原文行 8875：as though好像
+原文行 8878：on second thoughs经重新考虑,一转念
+原文行 8883：thousands of许多,无数
+原文行 8909：throw away扔掉,抛弃
+原文行 8947：ahead of time提前
+原文行 8948：all the time一直,始终
+原文行 8949：at a time每次,一次
+原文行 8950：at no time从不,决不
+原文行 8951：at one time同时,曾经,从前曾
+原文行 8952：at the same time但是,然而
+原文行 8953：at times有时
+原文行 8954：for the time being目前,暂时
+原文行 8955：from time to time有时,不时
+原文行 8956：in no time立即,马上
+原文行 8957：in time及时,适时地
+原文行 8958：on time准时
+原文行 8959：once upon a time从前
+原文行 8960：take one’s time不急不忙,从容进行
+原文行 9021：on top of在...之上
+原文行 9038：keep in touch保持联系
+原文行 9039：out of touch失去联系
+原文行 9040：touch on关系到,涉及
+原文行 9041：touch up润色,改进
+原文行 9067：keep track通晓事态,注意动向
+原文行 9068：lose track失去联系
+原文行 9172：in truth实际上,的确
+原文行 9175：try out试验
+原文行 9176：try on试穿
+原文行 9186：tune in (to sth.)调谐,收听
+原文行 9194：by turns轮流,交替地
+原文行 9195：in turn依次,轮流
+原文行 9196：turn down关小,调低;拒绝,摒斥
+原文行 9197：turn in交出,上缴;转身进入,拐入
+原文行 9198：turn into变成
+原文行 9199：turn off关掉,断开;拐弯,叉开
+原文行 9200：turn on接通,打开
+原文行 9201：turn out制造,生产;结果是;驱逐,使离开
+原文行 9202：turn over翻过来,翻倒;移交,转交
+原文行 9203：turn to变成,求助于,借助于
+原文行 9204：turn up开大,调大;出现,来到,发生
+原文行 9205：take turns轮流
+原文行 9296：the United Kingdom(=UK)联合王国
+原文行 9297：the United States(=US)美国
+原文行 9298：the United Nations(=UN)联合国
+原文行 9323：up to起来,从事于,忙于;直到;该由...,轮到,胜任,适于
+原文行 9356：make use of利用
+原文行 9357：put to use使用,利用
+原文行 9358：use up用完,花完
+原文行 9366：as usual像往常一样,照例
+原文行 9422：joint venture合资企业
+原文行 9442：vice versa反之亦然
+原文行 9476：by virtue of由于
+原文行 9556：warm up变热
+原文行 9588：by the way顺便提一下,另外
+原文行 9589：by way of经由,通过...方式
+原文行 9590：give way让路,让步
+原文行 9591：in a way在某点,在某种程度上
+原文行 9592：in no way决不
+原文行 9593：in the way of妨碍
+原文行 9594：in one’s way/in the way妨碍,阻碍
+原文行 9595：lead the way带路,引路
+原文行 9596：make one’s way前进,行进
+原文行 9597：make way开路,让路
+原文行 9610：wear off逐渐消逝
+原文行 9611：wear out用破,用坏,磨损;耗尽,使精疲力尽
+原文行 9661：as well同样地
+原文行 9662：as well as既...又,除...之外(还)
+原文行 9676：what about(对于)...怎么样
+原文行 9677：what if如果...将会怎样,即使...又有什么要紧
+原文行 9701：whether...or是...还是,不管...还是
+原文行 9711：for a while暂时,一时
+原文行 9712：once in a while偶尔,有时
+原文行 9713：after a while过了一会,不久
+原文行 9730：on the whole总的来说
+原文行 9778：wipe out擦去,除去;消灭,毁灭
+原文行 9807：no wonder难怪,怪不得
+原文行 9820：in a word总而言之
+原文行 9821：in other words换句话说,也就是说
+原文行 9822：keep one’s word守信用
+原文行 9823：word for word逐字地
+原文行 9827：at work在工作,忙于
+原文行 9828：out of work失业
+原文行 9829：work out解决,算出;设计出,制定出
+原文行 9830：work up引起,激起;逐渐上升,向上爬
+原文行 9837：in the world到底,究竟
+原文行 9853：at (the) worst在最坏的情况下
+原文行 9879：write off报废,勾销,注销
+原文行 9887：go wrong发生故障,出毛病
+原文行 9914：and yet可是,然而
+原文行 9915：as yet到目前为止,到那时为止
