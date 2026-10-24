@@ -15,3 +15,10 @@ __pycache__/
 
 # WorkBuddy internal working data (not part of the notes content)
 .workbuddy/
+
+# Local scratch/output artifacts (not part of the notes content)
+output/
+
+# Editor/backup leftovers
+*.bak
+*.tmp
