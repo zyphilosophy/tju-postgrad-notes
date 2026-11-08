@@ -22,3 +22,6 @@ output/
 # Editor/backup leftovers
 *.bak
 *.tmp
+
+# Duplicate archive: the 12 source images are tracked individually
+/05_研修班/英语/课堂笔记/2026-11-08/资料1108.zip
